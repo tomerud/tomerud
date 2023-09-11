@@ -6,8 +6,11 @@
 
 ---
 
-### 🤝 Let's Connect on linkedIn
+### 🤝 Let's Connect 
 
 [<img align="left" alt="TomerRudnitzky | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Byx7xo86wRqajsQ%2FRdAYT6w%3D%3D
+[<img align="left" alt="TomerRudnitzky | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
+[gmail]: tomer.rudnitzky@gmail.com
