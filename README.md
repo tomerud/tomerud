@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Tomer Rudnitzky! 🌟
+- 🎓 Computer Science and Statistics student at Tel Aviv University
+- 📍 Tel Aviv, Israel
+- 🔍 Looking for a Software Engineer position.
+- 🌍 Avid traveler with dreams to see even more of the world
 
-<!--
-**tomerud/tomerud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🤝 Let's Connect on linkedIn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="TomerRudnitzky | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Byx7xo86wRqajsQ%2FRdAYT6w%3D%3D
