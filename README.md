@@ -1,4 +1,4 @@
-### Hi, I'm Tomer Rudnitzky! 🌟
+### Hi, I'm Tomer Rudnitzky! 
 - 🎓 Computer Science and Statistics student at Tel Aviv University.
 - 📍 Tel Aviv, Israel.
 - 🔍 Looking for a Software Engineer position.
